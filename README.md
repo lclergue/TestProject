@@ -2,5 +2,3 @@
 
 
 ## Information
-
-## Info 2
