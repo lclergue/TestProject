@@ -1,7 +1,7 @@
 # Test project
 
-## infos
+## info 1
 
-## infos 2
+## info 2
 
 ## info 3
